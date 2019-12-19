@@ -1,12 +1,14 @@
 Class: table  
 
 Attributes:  
-numberOfSeats: (integer)  
+totalSeats: (integer)  
+numberOfOccupants: (integer)  
 occupied: (boolean)  
 color: (string)  
 highTop: (boolean)  
 
-changeTableHeight (modifies highTop attribute)  
-isOccupied (toggles occupied boolean)
-redecorate (changes color)
-changeHeight (toggles highTop boolean)
+isOccupied (toggles occupied boolean)  
+changeOccupants (modifies numberOfOccupants attribute)  
+redecorate (changes color)  
+changeHeight (toggles highTop boolean)  
+extraSeats (subtracts numberOfOccupants from totalSeats and displays extra seats)

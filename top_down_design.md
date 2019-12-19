@@ -1,4 +1,4 @@
-#How to become a Turing student
+# How to become a Turing student
 ```
 1 Apply
   1.1 Go to Turing website

@@ -32,5 +32,8 @@
     5.2.4 Complete Survey
 6 Sign enrollment agreement
   6.1 Open RightSignature link
-    6.1.1
+    6.1.1 Open preferred browser
+    6.1.2 Find email with RightSignature link
+    6.1.3 Click link
+  6.2 Electronically sign document
 ```
